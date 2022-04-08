@@ -1,0 +1,17 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games - Set of 5 console games",
+    "license": "\"MIT\"",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mrJonson",
+            "email": "mr.Jonson@mail.ru"
+        }
+    ],
+    "require": {}
+}
