@@ -3,3 +3,6 @@
 
 ### CodeClimate
 <a href="https://codeclimate.com/github/mrjonsonDD/php-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/11b70480f39075759328/maintainability" /></a>
+
+### PHPCI
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
